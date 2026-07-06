@@ -9,7 +9,7 @@ Focused server-side examples for building with DeepSeek V4 Flash and Pro on PoYo
 
 DeepSeek V4 is useful when you need cost-aware coding, reasoning, summarization, and assistant workflows with a fast default path and a stronger pro option.
 
-[Model Page](https://poyo.ai/models/deepseek-v4-flash) | [Docs](https://docs.poyo.ai/api-manual/chat-series/chat-completions) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/deepseek-v4-flash) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/chat-series/chat-completions) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
